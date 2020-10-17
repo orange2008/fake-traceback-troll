@@ -1,0 +1,2 @@
+Usage:
+interminal.py <Filename> <Line> <Module> <Errortype> <ErrorMsg>
